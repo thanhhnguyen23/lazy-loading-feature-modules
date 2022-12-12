@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'lazy-loading-feature-module';
+  title = 'Lazy Loading Feature Modules';
+// NOTE: $ ng generate module orders --route orders --module app.module 
 }
